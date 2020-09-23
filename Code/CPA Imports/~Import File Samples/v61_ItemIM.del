@@ -1,0 +1,59 @@
+I;mBothActual;Both Tracked Actual;Both Tracked Actual;5;Vernon;1;Normal;Software;Taxable;3;Normal;1;;0;0;1;5;3;190;0;0;0;0;0;0;1;;;SOA;Foot;Foot;Cables;0;Foot;Price Group 1;0;Peri;Foot;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mBothActual;Foot;1;0;0;0;No UPC
+L;mBothActual;LocalTax
+I;mBothAverage;Both tracked Average;Both tracked Average;6;Rialto;1;Normal;Software;Nontaxable;3;Land;11;04/11/97;5;0;1;1;1;9.12;0;0;0;0;0;0;1;;;SOA;CuFt;CuFt;Cables;0;CuFt;Price Group 1;0;Sys;CuFt;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mBothAverage;CuFt;1;0;0;0;No UPC
+L;mBothAverage;Freight1
+I;mBothFIFO;Both Tracked FIFO;Both Tracked FIFO;5;Rialto;1;Normal;Software;Taxable;3;Normal;12;04/11/97;0;0;1;3;3;8.556;0;0;0;0;0;0;1;;;SOA;SqYd;SqYd;Cables;0;SqYd;Price Group 3;0;Sys;SqYd;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mBothFIFO;SqYd;1;0;0;0;No UPC
+L;mBothFIFO;Freight2
+I;mBothLIFO;Both tracked LIFO;Both tracked LIFO;6;Rialto;1;Normal;Expense;Taxable;3;Normal;0;;;0;1;4;4;1.90;0;0;0;0;0;0;1;;Hardware;SOA;SqYd;SqYd;Components;0;SqYd;Price Group 3;0;Peri;SqYd;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mBothLIFO;SqYd;1;0;0;0;No UPC
+L;mBothLIFO;StateTax
+I;mBothStd;Both tracked Std;Both tracked Std;6;Vernon;1;Normal;Hardware;SOA-Taxable;3;Normal;;04/11/97;2;0;1;2;2;15.23;0;0;0;0;0;0;1;;;SOA;Each;Each;Monitors;0;Each;Price Group 3;0;Util;Each;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mBothStd;Each;1;0;0;0;No UPC
+I;mSerialFIFONoDec;FG, Serial, FIFO, No decimal, Trade dis;FG, Serial, FIFO, No decimal, Trade dis;5;Rialto;1;Normal;Hardware;Taxable;2;Land;;04/11/97;;0;1;3;3;675.4545;825.27828;7;1;0;0;0;1;;;SOA;Each;Each;Cables;0;Each;Price Group 1;0;Appl;Each;1;1;0;;;;;;;1;none;0;0;;;;0;1;;;;
+U;mSerialFIFONoDec;Each;1;0;0;0;No UPC
+L;mSerialFIFONoDec;HazMat1
+I;mLotActual;Lot tracked Actual item;Lot tracked Actual item;5;Rialto;1;Essential;Misc;Nontaxable;1;Normal;14;04/11/97;2;0;1;5;5;20.655;0;0;0;0;0;0;1;;Service;SOA;Pound;Pound;Modems;0;Pound;Price Group 1;0;Sys;Pound;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mLotActual;Pound;1;0;0;0;Test UPC
+L;mLotActual;LocalTax
+I;mLotAverage1;Lot tracked Average;Lot tracked Average;5;Rialto;1;Luxury;Service;Taxable;1;Normal;;;0;0;1;1;1;90.7676;0;0;0;0;0;1;1;;Hardware;SOA;Case;Case;;0;Case;Price Group 1;0;;Case;1;1;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mLotAverage1;Case;1;0;0;0;No UPC
+L;mLotAverage1;Freight1
+I;mLotFIFO;Lot tracked FIFO;Lot tracked FIFO;5;Vernon;1;Normal;Software;Taxable;1;Land;0;04/11/97;;0;1;3;4;12.887;0;0;0;0;0;0;1;;;SOA;Pound;Pound;;0;Pound;Price Group 1;0;Sys;Pound;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mLotFIFO;Pound;1;0;0;0;No UPC
+L;mLotFIFO;Freight2
+I;mLotLIFO;Lot tracked LIFO;Lot tracked LIFO;5;Misc;1;Normal;Misc;Taxable;1;Normal;0;04/11/97;50;0;1;4;4;30.454;0;0;0;0;0;0;1;;Service;SOA;CuFt;CuFt;Modems;0;CuFt;Price Group 3;0;Appl;CuFt;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mLotLIFO;CuFt;1;0;0;0;No UPC
+L;mLotLIFO;StateTax
+I;mLotStd;Lot tracked Std;Lot tracked Std;6;Vernon;1;Luxury;Hardware;SOA-Nontaxable;1;Normal;;04/11/97;0;0;1;2;2;45.665;0;0;0;0;0;0;1;;;SOA;Sheets;Sheets;Components;0;Sheets;Price Group 3;0;Util;Sheets;1;0;0;;;;;;;1;ten;0;0;;;;0;1;;;;
+U;mLotStd;Sheets;1;0;0;0;No UPC
+I;mNoneAverage;None Tracked Average;None Tracked Average;5;Vernon;1;Normal;Expense;Taxable;0;Normal;;04/11/97;0;0;1;1;1;0;0;0;0;0;0;0;1;;Hardware;SOA;Sheets;Sheets;Monitors;0;Sheets;Price Group 3;0;Peri;Sheets;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mNoneAverage;Sheets;1;0;0;0;No UPC
+L;mNoneAverage;HazMat1
+I;mNoneFIFO;None tracked FIFO;None tracked FIFO;5;Rialto;1;Normal;Software;Taxable;0;Normal;;04/11/97;0;0;1;3;3;67.234;0;0;0;0;0;0;1;;;SOA;Cwt;Cwt;Cables;0;Cwt;Price Group 3;0;;Cwt;1;0;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mNoneFIFO;Cwt;1;0;0;0;No UPC
+L;mNoneFIFO;HazMat1
+I;mNoneLIFO;None Tracked LIFO;None Tracked LIFO;6;Misc;1;Normal;Software;SOA-Taxable;0;Normal;3;04/11/97;;0;1;4;4;54.666;0;0;0;0;0;0;1;;;SOA;CuFt;CuFt;Cables;0;CuFt;Price Group 3;0;;CuFt;1;0;0;;;;;;;1;zero;0;0;;;;0;1;;;;
+U;mNoneLIFO;CuFt;1;0;0;0;No UPC
+L;mNoneLIFO;Freight2
+I;mNoneStd1;None Tracked Std;None Tracked Std;6;Vernon;1;Essential;Software;Nontaxable;0;Land;2;04/11/97;;0;1;2;2;60.56456;0;0;0;0;0;0;1;;Service;SOA;Pack;Pack;;0;Pack;Price Group 2;0;Appl;Pack;1;0;0;;;;;;;1;ten;0;0;;;;0;1;;;;
+U;mNoneStd1;Pack;1;0;0;0;No UPC
+I;mSerialActual;Serial Tracked Actual;Serial Tracked Actual;5;Rialto;1;Normal;Software;Taxable;2;Normal;3;04/11/97;0;0;1;5;5;90.4564;0;0;0;0;0;1;1;;Service;SOA;Box;Box;Cables;0;Box;Price Group 2;0;Appl;Box;1;1;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mSerialActual;Box;1;0;0;0;No UPC
+L;mSerialActual;LocalTax
+I;mSerialAverage;Serial Tracked Average;Serial Tracked Average;5;Rialto;1;Normal;Software;Taxable;2;Normal;11;04/11/97;1;0;1;1;1;120.234;0;0;0;0;0;1;1;;;SOA;Each;Each;Cables;0;Each;Price Group 2;0;Appl;Each;1;1;0;;;;;;;1;ten;0;0;;;;0;1;;;;
+U;mSerialAverage;Each;1;0;0;0;No UPC
+L;mSerialAverage;Freight1
+I;mSerialFIFO;Serial tracked FIFO;Serial tracked FIFO;5;Vernon;1;Normal;Software;Taxable;2;Normal;0;04/11/97;0;0;1;3;3;80.1312;0;0;0;0;0;1;1;;Service;SOA;Foot;Foot;Cables;0;Foot;Price Group 2;0;Appl;Foot;1;1;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mSerialFIFO;Foot;1;0;0;0;No UPC
+L;mSerialFIFO;Freight1
+I;mSerialLIFO;Serial Tracked LIFO;Serial Tracked LIFO;5;Vernon;1;Normal;Software;Taxable;2;Normal;5;04/11/97;0;0;1;4;4;60.63334;0;0;0;0;0;1;1;;;SOA;Case;Case;Cables;0;Case;Price Group 2;0;;Case;1;1;0;;;;;;;1;five;0;0;;;;0;1;;;;
+U;mSerialLIFO;Case;1;0;0;0;No UPC
+L;mSerialLIFO;StateTax
+I;mSerialStd;Serial Tracked Std;Serial Tracked Std;5;Rialto;1;Normal;Software;Taxable;2;Normal;;04/11/97;0;0;1;2;2;90.12313;0;0;0;0;0;1;1;;;SOA;Pound;Pound;Cables;0;Pound;Price Group 2;0;Sys;Pound;1;1;0;;;;;;;1;zero;0;0;;;;0;1;;;;
+U;mSerialStd;Pound;1;0;0;0;No UPC
+I;mNoneBTO;None Tracked BTO;None Tracked BTO;7;Rialto;1;Normal;Software;Taxable;0;Normal;3;04/11/97;;0;1;4;4;54.666;0;0;0;0;0;0;1;;;SOA;CuFt;CuFt;Cables;0;;Price Group 3;0;;CuFt;1;0;0;;;;;;;1;zero;0;0;;;;0;1;1;1;1;0
+K;mNoneBTO;1.44 Floppy;5;1
+K;mNoneBTO;28.8 Modem;1;2
