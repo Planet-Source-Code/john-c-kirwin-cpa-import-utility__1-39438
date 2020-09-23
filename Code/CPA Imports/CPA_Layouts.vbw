@@ -1,0 +1,8 @@
+cCPA_INI = 290, 103, 1168, 1049, C
+cCPA_Files = 294, 102, 1170, 1045, C
+cCPA_Tracker = 294, 99, 1167, 1202, C
+cCPA_Strings = 290, 103, 1168, 1086, C
+cCPA_ErrorHandler = 294, 105, 1168, 1041, C
+cCPA_StatusBar = 292, 102, 1169, 1094, C
+cCPA_ParseDelimited = 291, 105, 1170, 1049, C
+cCPA_Layouts = 291, 104, 1169, 1044, C
